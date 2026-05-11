@@ -1,4 +1,4 @@
-
+Get the ultimate Sketch for macOS action with automatic Action for Sketch for macOS - non-destructive editing and shortcut customization. Featuring non-destructive editing and
 
 
 
